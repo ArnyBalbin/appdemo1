@@ -3,7 +3,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;  /*define la altura de todos sus hijos aceptando el 100% de la altura de la ventana*/
+    height: 100vh;
     background-color: #f0f0f0;
     margin: 0;
 }
@@ -38,7 +38,7 @@ button{
 }
 
 button:hover{
-    background: #0D8CA7;
+    background: #0ea4c5;
 }
 
 ul{
